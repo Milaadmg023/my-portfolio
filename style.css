@@ -1,22 +1,23 @@
 body {
-     overflow-x: hidden;
- }
- 
- .nav-link:hover {
-     text-decoration: underline;
-     text-decoration-color: darkolivegreen;
-     text-underline-offset: 6px;
- }
- 
- .profile-img , .about-pic{
-     height: 25rem !important;   
- }
- 
- .project-img {
-     height: 14rem !important;
-     max-width: 20rem;
- }
- 
- .contact .row {
-     width: fit-content !important;
- }
+  overflow-x: hidden;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  text-decoration-color: darkolivegreen;
+  text-underline-offset: 6px;
+}
+
+.profile-img,
+.about-pic {
+  height: 25rem !important;
+}
+
+.project-img {
+  height: 14rem !important;
+  max-width: 20rem;
+}
+
+#contact .row {
+  width: fit-content !important;
+}

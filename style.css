@@ -21,3 +21,7 @@ body {
 #contact .row {
   width: fit-content !important;
 }
+
+.project-link {
+  text-decoration: none;
+}
